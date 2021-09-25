@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Specialist</title>
+</head>
+<body>
+<form align="center">
+<h1><label>Specialist</label><br><br></h1>
+<input type="radio" name="Specialist" value="Cardiology"/>Cardiology - DR.SUMATHI<br><br>
+    <input type="radio" name="Specialist" value="Corneal Transplant"/>Corneal Transplant- DR.PENCHALAIAH<br><br>
+    <input type="radio" name="Specialist" value="General Surgery"/>General Surgery- DR.RADHA<br><br>
+    <input type="radio" name="Specialist" value="Infectious Diseases"/>Infectious Diseases- DR.JAYANTHI<br><br>
+    <input type="radio" name="Specialist" value="In-Vitro Fertilisation"/>In-Vitro Fertilisation - DR.KRISH<br><br>
+    <input type="radio" name="Specialist" value="Laboratory Medicine"/>Laboratory Medicine DR- SREE<br><br>
+    <input type="radio" name="Specialist" value="Liver Transplant & Hepatic Surgery"/>Liver Transplant & Hepatic Surgery - DR.RAM<br><br>
+    <a href="slots.html">Next</a>
+</form>
+</body>
+</html>
